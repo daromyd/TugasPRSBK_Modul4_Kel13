@@ -1,0 +1,41 @@
+.Main {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+  width: 100%;
+  font-size: calc(10px + 2vmin);
+}
+
+  .hehe {
+    display: flex;
+    flex-direction: row;
+    margin-top: 20px;
+  }
+
+  .ViewButton {
+    display: flex;
+    flex-direction: row;
+    margin-top: 20px;
+  }
+  
+  .ViewButton1 {
+    margin-left: 10px;
+  }
+  
+  .ViewButton2 {
+    margin-right: 10px;
+  }
+  
+  .Button {
+    height: 60px;
+    width: 500px;
+    border-radius: 10px;
+    font-size: 30px;
+  }
+  
+  .Text{
+    font-size: 50px;
+  }
+  
